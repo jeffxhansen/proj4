@@ -36,8 +36,6 @@ class GeneSequencing:
 		# get rows and columns
 		rows = len(seq1)+1
 		cols = len(seq2)+1
-
-  
   
 		if self.edit_distance != [] and self.prev_matrix != []:
 	
